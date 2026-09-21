@@ -1,6 +1,6 @@
 # BMI 計算器 (Python BMI Calculator)
 
-[![Python CI](https://github.com/a0911/0921test/actions/workflows/ci.yml/badge.svg)](https://github.com/a0911/0921test/actions)
+[![Python CI](https://github.com/41154b004-Run/0921test/actions/workflows/ci.yml/badge.svg)](https://github.com/41154b004-Run/0921test/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 一個使用 Python 撰寫的輕量級命令列身體質量指數（BMI）計算工具。
